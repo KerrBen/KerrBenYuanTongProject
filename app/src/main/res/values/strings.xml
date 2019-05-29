@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KerrBen@YuanTongProject</string>
+    <string name="title_activity_qr_">QR_Activity</string>
 </resources>
